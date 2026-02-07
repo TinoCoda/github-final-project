@@ -1,5 +1,5 @@
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. 
-# Contributing
+# All contributions
 
 When contributing a major change to this repository, please first discuss the
 change you wish to make via an [issue](contributing/ISSUES.md) or via
@@ -17,6 +17,17 @@ the code they are contributing to the project.
 Please note we have a [Code of Conduct](#code-of-conduct), please follow it in
 all your interactions with the project and its community.
 
+## Bug reports
+This how you should report any bug you notice. You can create an issue with a bug tag.
+
+## Documentation inprovements
+Documentation improvements are welcome. Do a pull request after finishing your corrections
+
+## Enhancements
+Enhancements of any kind are welcome
+
+## ideas are welcome
+your new ideas are welcome
 ## Coding Standards
 
 This project adheres to the PEP 8 Python Coding Style Guidelines, Django naming
